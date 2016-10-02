@@ -10,4 +10,5 @@ In this first series, we are going to focus on the absolute essentials for getti
 [Build an AngularJS App From Scratch: Getting Started](https://egghead.io/series/angularjs-app-from-scratch-getting-started) on egghead.io
 
 Start local Server: http://www.linuxjournal.com/content/tech-tip-really-simple-http-server-python
+
 python -m SimpleHTTPServer
